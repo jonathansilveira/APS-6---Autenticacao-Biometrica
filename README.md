@@ -1,0 +1,2 @@
+# APS-6---Autenticacao-Biometrica--Java
+CRUD + TABELAS + HIERARQUIA DE CARGOS + RECONHECIMENTO FACIAL 
