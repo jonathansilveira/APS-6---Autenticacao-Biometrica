@@ -29,7 +29,8 @@ O sistema foi estruturado de forma modular, com componentes independentes que se
 1. Pegue a pasta chamada de "photos" e copie na raíz do seu disco (Ex: C:\photos)
 2. Abra o Wampserver e certifique que todos os serviços estão sendo executados
 3. Abra o MySQL Workbench e execute o script "reconhecimento_facial.sql.sql"
-4. O sistema está pronto para uso!
+4. Inicie o Netbeans e abra o projeto
+5. O sistema está pronto para uso!
 
 Obs: certifique-se que a sua Webcam esteja funcionando!
 
