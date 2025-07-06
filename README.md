@@ -66,10 +66,10 @@ O usuário agora pode usar a opção "Reconhecer" no menu principal para realiza
 O sistema identifica o nível de acesso do usuário (Diretor, Gerente ou Assistente) e exibe o painel correspondente.
 
 ## Gerenciamento do Administrador 
-   1. Visualização de Cadastrados <br>
+   - Visualização de Cadastrados <br>
  O administrador pode acessar a lista de usuários cadastrados clicando em "Cadastrados".
 
-  2. Alteração de Cargos <br>
+  - Alteração de Cargos <br>
  É possível modificar o nível de acesso de um usuário, como por exemplo, alterar de Diretor para Gerente.
 
 ## Níveis de Acesso
